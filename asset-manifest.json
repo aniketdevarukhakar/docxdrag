@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/docxdrag/static/css/main.7d33576b.css",
+    "main.js": "/docxdrag/static/js/main.3b9fdbfa.js",
+    "index.html": "/docxdrag/index.html",
+    "main.7d33576b.css.map": "/docxdrag/static/css/main.7d33576b.css.map",
+    "main.3b9fdbfa.js.map": "/docxdrag/static/js/main.3b9fdbfa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d33576b.css",
+    "static/js/main.3b9fdbfa.js"
+  ]
+}
